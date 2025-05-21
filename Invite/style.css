@@ -1,0 +1,19 @@
+body{
+    background-color:lightsteelblue ;
+}
+.Me{
+    text-align: center  ;
+}
+#they{
+    text-align:center;
+    font-style: italic;
+}
+#us{
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: italic;
+}
+.all{
+    text-decoration: solid;
+    font-display:block ;
+}
